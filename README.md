@@ -2,21 +2,22 @@
 
 [TOC]
 
+## 第一次作业lab01
 
-## Lab1
+### Lesson1
 
-![lab1.jpeg](./screenshots/lab01.jpeg)
-
-
-## Lab2
-
-<img src="./screenshots/lab02.jpeg" alt="lab02.jpeg" style="zoom: 80%;" />
+![lab1.jpeg](./lab01/lab01.jpeg)
 
 
-## Lab3
+### Lesson2
 
-<img src="./screenshots/lab03.jpeg" alt="lab03.jpeg" style="zoom: 80%;" />
+<img src="./lab01/lab02.jpeg" alt="lab02.jpeg" style="zoom: 80%;" />
 
-## Lab4
 
-<img src="./screenshots/lab04.jpeg" alt="lab04.jpeg" style="zoom: 80%;" />
+### Lesson3
+
+<img src="./lab01/lab03.jpeg" alt="lab03.jpeg" style="zoom: 80%;" />
+
+### Lesson4
+
+<img src="./lab01/lab04.jpeg" alt="lab04.jpeg" style="zoom: 80%;" />
