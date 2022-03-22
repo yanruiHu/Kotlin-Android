@@ -23,21 +23,9 @@
 <img src="./lab01/lab04.jpeg" alt="lab04.jpeg" style="zoom: 80%;" />
 
 
-## 第二次作业lab02
+## 其它作业已经放在对应的文件夹中
 
-### 勋章截图
-
-![lab05.jpeg](./lab02/lab05.jpeg)
-
-
-### App1运行与代码截图
-
-![App-1.jpg](./lab02/App-1.jpg)
-
-![Lab5-tip-time-app.jpeg](./lab02/Lab5-tip-time-app.jpeg)
+[lab02](./lab02)
+[lab03](./kab03)
 
 
-### App2运行与代码截图
-
-![App-2.jpg](./lab02/App-2.jpg)
-![Lab5-Affirmations-app.jpeg](./lab02/Lab5-Affirmations-app.jpeg)
