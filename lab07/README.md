@@ -19,3 +19,10 @@
 ![Code03.jpeg](code3.jpeg)
 ![Code04.jpeg](code4.jpeg)
 ![Code05.jpeg](code5.jpeg)
+
+## 视频
+
+<video width="400" height="300" controls autoplay>
+  <source src="Video.mp4" type="video/mp4">
+  您的浏览器不支持 video 标签。
+</video>
