@@ -1,5 +1,7 @@
 # Lab07
 
+[TOC]
+
 ![Lesson9](Badge.jpeg)
 
 ## APP运行截图
